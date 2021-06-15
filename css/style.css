@@ -1,0 +1,92 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url('https://www.4blue.com.br/wp-content/uploads/2014/10/background-azul-claro.jpg');
+}
+
+#all {
+    text-align: center;
+}
+
+#nav {
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(87, 117, 128);
+}
+
+#nav a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+#content {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+    padding-top:1mm;
+    padding-bottom: 1mm;
+    font-size: 18px;
+    color: white;
+}
+
+#inicio {
+    letter-spacing: 8px;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 0;
+    text-decoration: underline;
+}
+
+hr {
+    border: 3px solid rgb(87, 117, 128);
+}
+
+.titlenews {
+    font-size: 26px;
+    font-family: monospace;
+}
+
+.noticia a {
+    text-decoration: none;
+    color: white;
+}
+
+#content img {
+    border-radius: 24px;
+}
+
+.textnotice {
+    font-size: 18px;
+    text-align: left;
+}
+
+#depoimento {
+    font-style: italic;
+    font-size: 16px;
+}
+
+#produtos img {
+    width: 200px;
+    
+}
+
+#top {
+    vertical-align: top;
+}
+
+.title {
+    font-size: 25px;
+}
+
+.button {
+    background-color: rgb(87, 117, 128);
+    width: 200px;
+    height: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    font-size: 18px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
